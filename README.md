@@ -1,1 +1,1 @@
-# open-galery
+# react-boilerplate
